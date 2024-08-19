@@ -1,0 +1,41 @@
+# Node modules
+#/node_modules/
+
+# Vite cache
+/.vite/
+
+# Build output
+/dist/
+/build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# npm and yarn lock files (opcional, pero puede ser útil si deseas ignorarlos)
+# package-lock.json
+# yarn.lock
+
+# Coverage directory used by testing tools
+/coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
